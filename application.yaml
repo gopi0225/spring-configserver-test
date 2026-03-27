@@ -1,7 +1,7 @@
 # External Services
 customer:
   service:
-    url: http://localhost:9094y
+    url: http://localhost:9084
 product:
   service:
-    url: http://localhost:9095y
+    url: http://localhost:9085
